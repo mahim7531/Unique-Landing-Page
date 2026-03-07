@@ -26,27 +26,6 @@ This project demonstrates a clean UI layout suitable for freelance platforms, jo
 
 ---
 
-## 📂 Project Structure
-
-```
-WorkHive-LandingPage
-│
-├── index.html
-├── style.css
-└── README.md
-```
-
----
-
-## 💻 How to Run the Project
-
-1. Download or clone the repository
-2. Open the project folder
-3. Run `index.html` in your browser
-
----
-
-## 🎯 Purpose of This Project
 
 This project was created for:
 
@@ -57,13 +36,3 @@ This project was created for:
 
 ---
 
-## 📸 Preview
-
-A clean freelance marketplace landing page where users can:
-
-* Hire freelancers
-* Find work opportunities
-* Explore popular services
-* Discover top freelancers
-
----
